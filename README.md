@@ -1,5 +1,8 @@
 # Job Portal
 
+## Overview
+**JobLane** is a full-stack job posting board built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js). This application allows companies to register, verify their accounts via email, post job listings, and automate email notifications to candidates. It aims to simplify the job application process for both employers and job seekers.
+
 <h1 align="center" id="title">Job Portal</h1>
 
 <p align="center">
@@ -19,16 +22,12 @@
 
 Here are some of the best features of the project:
 
-* User Authentication and Authorization
-* Job Search and Filtering
-* Save and Track Jobs
-* Resume Management
-* Profile Management
-* Admin Dashboard
-* Job Posting
-* Application Tracking
-* Messaging and Notifications
-* Responsive Design
+## Features
+- **User Registration and Verification**: Companies can register and verify their accounts via email.
+- **Company Login**: Secure login system using JWT for authenticated sessions.
+- **Job Posting**: Companies can post jobs with detailed descriptions and requirements.
+- **Candidate Email Automation**: Automated emails to candidates regarding job postings and updates.
+- **Responsive Design**: User-friendly interface that works well on various devices.
 
 <h2>🔥 Getting Started</h2>
 
@@ -86,3 +85,13 @@ If you wish to contribute to this project, please first read the README thorough
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Styling**: Tailwind CSS, Material UI, Mantine UI
+
+
+### Notes:
+- Replace `insert_your_video_link` with the actual link to your video explanation.
+- Update any links or information as necessary.
+- Ensure that you have a `LICENSE` file in your repository if you mention licensing.
+- You can further customize sections like **Acknowledgments** and **License** based on your project's needs. 
+
+Feel free to modify any parts as needed to better suit your project!
+
