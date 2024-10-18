@@ -11,7 +11,7 @@
 <p id="description">Full Stack Job application portal built using the MERN stack, focusing on simplifying job applications.</p>
 
 <h2>🚀 Demo</h2>
-<strong><span style="color: black;">Deploy link:</span></strong> 
+
 [Website](https://joblane.vercel.app/)<br />
 
 <h2>🧐 Features</h2>
